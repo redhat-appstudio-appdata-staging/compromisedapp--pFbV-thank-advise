@@ -13,7 +13,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/rhn-support-tgornals-tenant/compromisedapp/samplepython2-ojh7@sha256:ae2c8cd3a2617c11fef4f8d6f4818186245323dd20fc8b54bf88d68841745220
+      - image: quay.io/redhat-user-workloads-stage/rhn-support-tgornals-tenant/compromisedapp/samplepython2-ojh7@sha256:720bcb9be0c3bc8ef9fb07c9fdcb677d8974e8c2d06e7040ea0bd57e9ab58b8b
         name: my-python
         resources: {}
 status: {}
