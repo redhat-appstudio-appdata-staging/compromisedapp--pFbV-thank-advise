@@ -9,7 +9,6 @@ metadata:
     app.kubernetes.io/name: samplepython2-ojh7
     app.kubernetes.io/part-of: compromisedapp
   name: samplepython2-ojh7
-  namespace: rhn-support-tgornals-tenant
 spec:
   replicas: 1
   revisionHistoryLimit: 0
