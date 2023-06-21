@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: samplepython2-ojh7
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/rhn-support-tgornals-tenant/compromisedapp/samplepython2-ojh7@sha256:ae2c8cd3a2617c11fef4f8d6f4818186245323dd20fc8b54bf88d68841745220
+      - image: quay.io/redhat-user-workloads-stage/rhn-support-tgornals-tenant/compromisedapp/samplepython2-ojh7@sha256:dfb1c116f6c96bd54de3d399a78aa52557202b514fd79b2180800eb3c86bcb03
         name: my-python
         ports:
         - containerPort: 8081
