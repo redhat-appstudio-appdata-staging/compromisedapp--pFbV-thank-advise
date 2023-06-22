@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: samplepython2-ojh7
     app.kubernetes.io/part-of: compromisedapp
-  name: samplepython2-ojh7vwk7
+  name: samplepython2-ojh7isii
 spec:
   path: /
   port:
