@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: samplepython2-ojh7
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
@@ -12,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/rhn-support-tgornals-tenant/compromisedapp/samplepython2-ojh7@sha256:4d2ec63a68708cf37259d88f0ce4a6c0cfc63d6ff8b75b35ea57de4c059a2497
+      - image: quay.io/redhat-user-workloads-stage/rhn-support-tgornals-tenant/compromisedapp/samplepython2-ojh7@sha256:ae2c8cd3a2617c11fef4f8d6f4818186245323dd20fc8b54bf88d68841745220
         name: my-python
         resources: {}
 status: {}
